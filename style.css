@@ -1,0 +1,53 @@
+
+    
+    
+    
+
+body {
+    background-color: grey; 
+    text-align: center;
+
+}
+
+input {
+    padding: 7px;
+}
+
+label {
+    display: inline-block;
+    margin: 5px;
+    width: 100px;
+  font-family: Roboto, sans-Serif;
+}
+
+ #comment {
+    width: 50%;
+    height: 20px;
+    margin-top: 10px;
+ }
+
+div {
+    text-align: center;
+}
+
+.high {
+    width: 50%;
+    margin: auto;
+    height: 400px;
+    object-fit: cover;
+}
+.low {
+    color: red;
+    background-color: black;
+    text-decoration: bold;
+
+}
+button {
+    padding: 7px;
+}
+p {
+    color: white;
+
+}
+.flex { display:flex; align-items: center; justify-content: space-between; width: 50%; margin: 0 auto;  } 
+ 
